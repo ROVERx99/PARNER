@@ -57,4 +57,4 @@ client.user.setGame(`IRAQxPARTNER☑️`)
 
 
 
-client.login("ODA2ODAyMzExMDcwNDgyNDMz.YBuvNA.qty1c9Ng4ev3i78vTIfZWi18ucA");//تۆکین لێرە دانێ
+client.login("ODA2ODAyMzExMDcwNDgyNDMz.YBuvNA.oZGHytYv0ATjLe2TUNDzypwZ_-s");//تۆکین لێرە دانێ
