@@ -36,7 +36,7 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/JCrf4ws`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/XPj2tcz`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
   client.channels.get("744991215732129822").send(
 `<@${message.author.id}> ✅ 
