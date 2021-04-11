@@ -6,7 +6,7 @@ client.on('message', message => {
 
 if (!message.guild) return; 
 
-if (message.content === 'p+wara') { 
+if (message.content === 'wara') { 
  if (!message.member.hasPermission("ADMINISTRATOR"))  return;
 if (message.member.voiceChannel) { 
 
@@ -51,10 +51,10 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`IRAQupROVERx99☑️`) 
+client.user.setGame(`ROVERx99☑️`) 
 });
 
 
 
 
-client.login("ODA2ODAyMzExMDcwNDgyNDMz.YBuvNA.nz5OmKL5zNaURntRjSiVQyKotnE");//تۆکین لێرە دانێ
+client.login("");//تۆکین لێرە دانێ
