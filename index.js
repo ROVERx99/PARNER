@@ -14,6 +14,9 @@ message.member.voiceChannel.join()
 
 .then(connection => { 
 
+//////////
+ROVERx99
+//////////
 
 }) 
 
@@ -36,9 +39,9 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/XPj2tcz`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە: https://discord.gg/Xje5ggMzQT `) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
-  client.channels.get("744991215732129822").send(
+  client.channels.get("").send(
 `<@${message.author.id}> ✅ 
 ${message.content}`)
 }
@@ -57,4 +60,4 @@ client.user.setGame(`ROVERx99☑️`)
 
 
 
-client.login("");//تۆکین لێرە دانێ
+client.login("FO3iYgILaFGzQwB1ZzASBNtseae4pVsB");//تۆکین لێرە دانێ
