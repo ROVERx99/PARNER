@@ -15,8 +15,6 @@ message.member.voiceChannel.join()
 .then(connection => { 
 
 //////////
-ROVERx99
-//////////
 
 }) 
 
@@ -45,7 +43,10 @@ m.react("");
 }
 });
 
+
 /////////////
+
+
 
  client.on('ready', () => { console.log(`Logged in as ${client.user.tag}!`
 ); 
