@@ -33,6 +33,30 @@ message.reply('**ئەگەر بەخۆت نێیە ڤۆیس ئەمنیش نایێم
 });
 
 
+/////////////////
+
+ client.on('ready', () => { console.log(`Logged in as ${client.user.tag}!`
+); 
+});
+client.on("message" m => {
+if(m.content === "Reklam") {
+m.reply("Bnera bomn 🖤");
+m.react("");
+}
+});
+
+/////////////
+
+ client.on('ready', () => { console.log(`Logged in as ${client.user.tag}!`
+); 
+});
+client.on("message" m => {
+if(m.content === "Bare farmu😪😂") {
+m.reply("ROVER");
+m.react("");
+}
+});
+
 client.on("message" , message => {
 
 if(message.channel.type === 'dm') {
