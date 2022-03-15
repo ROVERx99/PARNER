@@ -85,4 +85,4 @@ client.user.setGame(`ROVERx99☑️`)
 
 
 
-client.login("OTUzMDY1NTg2MDE4MDkxMDY5.Yi_Jfg.Sf8v_oAutFGoQ3KyGbzGeUVIvd8");//تۆکین لێرە دانێ
+client.login("");//تۆکین لێرە دانێ
